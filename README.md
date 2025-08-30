@@ -23,12 +23,6 @@ This project demonstrates the power of RAG systems in creating AI-driven educati
 - **HuggingFace Transformers** – To leverage state-of-the-art LLMs for generating context-aware responses
 - **Streamlit** – To build an interactive user interface for the tutoring system
 
-## 🎥 Related Video
-
-This project is part of the *Learn RAG from Scratch* series. In the first video, you'll dive into step-by-step instructions to build the RAG system from the ground up.
-
-Watch the full tutorial series:  
-[Learn RAG from Scratch - Part 1](https://bit.ly/3Zl47KD)
 
 ## 💻 Installation
 
